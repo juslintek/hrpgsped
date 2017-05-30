@@ -1,5 +1,7 @@
 For this project I've used [https://github.com/jackreichert/a-wp-react-redux-theme](https://github.com/jackreichert/a-wp-react-redux-theme) as an example!
 
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
