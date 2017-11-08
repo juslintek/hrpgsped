@@ -15,7 +15,10 @@ class ResultsDisplay extends Component {
         const { median } = data;
         const { firstView } = median;
 
-
+        return Object.keys(firstView.images).map((name, key) => {
+            const image = firstView.images[name];
+            return <div key={key} className="row"><div className="col-xs-12"><img src={image} className="thumbnail"/></div></div>
+        });
 
     }
 
@@ -28,9 +31,7 @@ class ResultsDisplay extends Component {
         return <div className="col-xs-12">
             <div className="well-lg">
                 <h3>{statusText}</h3>
-                {isTestComplete ? Object.keys(testData.median).map(run => testData.median[run].images.map(image => {
-                    return <img src={image}/>
-                })) : ''}
+                {isTestComplete ? this.getTestResultsImages(testData) : ''}
             </div>
         </div>;
     }

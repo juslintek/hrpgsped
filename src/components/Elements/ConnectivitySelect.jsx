@@ -24,7 +24,7 @@ class ConnectivitySelect extends Component {
         const {connectivities, currentConnectivity, onChange} = this.props;
 
         return <div className="form-group">
-            <label className="col-sm-2 control-label">Browser Select</label>
+            <label className="col-sm-2 control-label">Connectivity Select</label>
             <div className="col-sm-10">
             <select
                 id="testConnectivity"

@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7dd955d4-2bac-47a7-83d4-d39d1a834d9e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/components/Elements/ConnectivitySelect.jsx" afterPath="$PROJECT_DIR$/src/components/Elements/ConnectivitySelect.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/components/Elements/ResultsDisplay.jsx" afterPath="$PROJECT_DIR$/src/components/Elements/ResultsDisplay.jsx" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,7 +27,7 @@
       <file leaf-file-name="Test.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/actions/webPageTest/Run/Test.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="297">
               <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
               <folding />
             </state>
@@ -35,8 +37,8 @@
       <file leaf-file-name="ResultsDisplay.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Elements/ResultsDisplay.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="332">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -47,7 +49,7 @@
       <file leaf-file-name="SpeedTest.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Pages/SpeedTest.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="386">
               <caret line="42" column="57" lean-forward="false" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
               <folding>
                 <marker date="1510158412000" expanded="true" signature="2389:4748" ph="..." />
@@ -109,11 +111,11 @@
         <option value="$PROJECT_DIR$/src/components/Elements/LocationSelect.jsx" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/components/Elements/BrowserSelect.jsx" />
-        <option value="$PROJECT_DIR$/src/components/Elements/ConnectivitySelect.jsx" />
         <option value="$PROJECT_DIR$/src/components/Pages/SpeedTest.jsx" />
         <option value="$PROJECT_DIR$/src/actions/webPageTest/Run/Test.jsx" />
-        <option value="$PROJECT_DIR$/src/components/Elements/ResultsDisplay.jsx" />
         <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/src/components/Elements/ConnectivitySelect.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Elements/ResultsDisplay.jsx" />
       </list>
     </option>
   </component>
@@ -162,6 +164,24 @@
             <path>
               <item name="hr-pagespeed" type="b2602c69:ProjectViewProjectNode" />
               <item name="hr-pagespeed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hr-pagespeed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hr-pagespeed" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hr-pagespeed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hr-pagespeed" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hr-pagespeed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hr-pagespeed" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Elements" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,12 +251,12 @@
       <option name="presentableId" value="Default" />
       <updated>1509725454840</updated>
       <workItem from="1509725456266" duration="33634000" />
-      <workItem from="1510158844816" duration="1807000" />
+      <workItem from="1510158844816" duration="2796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35441000" />
+    <option name="totallyTimeSpent" value="36430000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -282,13 +302,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/reducers/web_page_test/get/waterfall_image">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/reducers/web_page_test/get/screenshot_image">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -488,6 +501,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17618">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -546,37 +560,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Elements/ConnectivitySelect.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Pages/SpeedTest.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="42" column="57" lean-forward="false" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
-          <folding>
-            <marker date="1510158412000" expanded="true" signature="2389:4748" ph="..." />
-            <marker date="1510158412000" expanded="true" signature="2449:4530" ph="..." />
-            <marker date="1510158412000" expanded="true" signature="2498:2536" ph="..." />
-            <marker date="1510158412000" expanded="true" signature="2585:3233" ph="..." />
-            <marker date="1510158412000" expanded="true" signature="2723:3206" ph="..." />
-            <marker date="1510158412000" expanded="true" signature="2775:3175" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/webPageTest/Run/Test.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/webpagetest/lib/mapping.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -609,10 +592,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="4" column="9111" lean-forward="false" selection-start-line="4" selection-start-column="9111" selection-end-line="4" selection-end-column="9111" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Pages/SpeedTest.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="42" column="57" lean-forward="false" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
+          <folding>
+            <marker date="1510158412000" expanded="true" signature="2389:4748" ph="..." />
+            <marker date="1510158412000" expanded="true" signature="2449:4530" ph="..." />
+            <marker date="1510158412000" expanded="true" signature="2498:2536" ph="..." />
+            <marker date="1510158412000" expanded="true" signature="2585:3233" ph="..." />
+            <marker date="1510158412000" expanded="true" signature="2723:3206" ph="..." />
+            <marker date="1510158412000" expanded="true" signature="2775:3175" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Elements/ConnectivitySelect.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/webPageTest/Run/Test.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Elements/ResultsDisplay.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="332">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
