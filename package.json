@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.17.0",
+    "lodash": "^4.17.4",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-redux": "^5.0.4"
+    "react-redux": "^5.0.4",
+    "redux": "^3.7.2",
+    "redux-storage": "^4.1.2",
+    "redux-storage-engine-localstorage": "^1.1.4",
+    "webpagetest": "git+https://github.com/juslintek/webpagetest-api.git"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
