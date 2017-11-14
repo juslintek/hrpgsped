@@ -20,7 +20,6 @@
     "webpagetest": "git+https://github.com/juslintek/webpagetest-api.git"
   },
   "devDependencies": {
-    "history": "^4.7.2",
     "node-sass-chokidar": "0.0.3",
     "npm-run-all": "^4.1.2",
     "react-router": "^4.2.0",

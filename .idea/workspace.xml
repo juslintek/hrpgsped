@@ -3,85 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7dd955d4-2bac-47a7-83d4-d39d1a834d9e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
       <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/actions/index.jsx" afterPath="$PROJECT_DIR$/src/actions/index.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Cancel/Test.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Cancel/Test.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Cancel/index.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Cancel/index.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Create/Video.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Create/Video.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Create/index.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Create/index.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/ChromeTraceData.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/ChromeTraceData.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/ConsoleLogData.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/ConsoleLogData.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/GoogleCsiData.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/GoogleCsiData.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/HARData.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/HARData.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/History.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/History.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/Locations.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/Locations.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/NetLogData.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/NetLogData.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/PageSpeedData.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/PageSpeedData.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/RequestData.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/RequestData.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/ResponseBody.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/ResponseBody.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/ScreenshotImage.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/ScreenshotImage.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/TestInfo.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/TestInfo.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/TestResults.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/TestResults.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/TestStatus.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/TestStatus.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/Testers.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/Testers.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/TimelineData.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/TimelineData.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/UtilizationData.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/UtilizationData.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/WaterfallImage.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/WaterfallImage.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/embedVideoPlayer.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/EmbedVideoPlayer.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Get/index.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Get/index.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/Run/Test.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Run/Test.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/index.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/index.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/listen.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/Listen.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/scriptToString.jsx" afterPath="$PROJECT_DIR$/src/actions/webPageTest/ScriptToString.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/actions/webPageTest/wptPublic.jsx" afterPath="$PROJECT_DIR$/src/wptPublic.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/Elements/BrowserSelect.jsx" afterPath="$PROJECT_DIR$/src/components/Elements/BrowserSelect.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/components/Elements/ConnectivitySelect.jsx" afterPath="$PROJECT_DIR$/src/components/Elements/ConnectivitySelect.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/components/Elements/LocationSelect.jsx" afterPath="$PROJECT_DIR$/src/components/Elements/LocationSelect.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/components/Elements/ResultsDisplay.jsx" afterPath="$PROJECT_DIR$/src/components/Elements/ResultsDisplay.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pages/About.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pages/Home.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pages/MainMenu.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pages/NotFound.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pages/PostList.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pages/RenderSingle.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pages/Single.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pages/SinglePage.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pages/SinglePost.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pages/SpeedTest.jsx" afterPath="$PROJECT_DIR$/src/components/Pages/SpeedTest.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/index.jsx" afterPath="$PROJECT_DIR$/src/reducers/index.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/menu_reducer.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/posts_reducer.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/cancel/test.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/cancel/test.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/create/video.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/create/video.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/chrome_trace_data.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/chrome_trace_data.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/console_log_data" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/console_log_data" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/embed_video_player.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/embed_video_player.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/google_csi_data" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/google_csi_data" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/har_data" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/har_data" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/history.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/history.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/net_log_data" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/net_log_data" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/page_speed_data.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/page_speed_data.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/request_data.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/request_data.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/response_body.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/response_body.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/screenshot_image" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/screenshot_image" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/test_info.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/test_info.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/test_results.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/test_results.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/test_status" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/test_status" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/testers.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/testers.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/timeline_data.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/timeline_data.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/utilization_data.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/utilization_data.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/get/waterfall_image" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/get/waterfall_image" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/listen.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/listen.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/web_page_test/script_to_string.jsx" afterPath="$PROJECT_DIR$/src/reducers/web_page_test/script_to_string.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/styles/App.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/styles/App.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/styles/index.css" afterPath="$PROJECT_DIR$/src/styles/index.css" />
-      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" afterPath="$PROJECT_DIR$/src/styles/index.scss" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -113,21 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsx" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/reducers/index.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="135">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="183">
+              <caret line="12884" column="13" lean-forward="false" selection-start-line="12884" selection-start-column="8" selection-end-line="12884" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -184,9 +108,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>isEmpty</find>
-      <find>MuiThemeProvider</find>
-      <find>browsers</find>
       <find>../wptPublic</find>
       <find>ConnectedRouter</find>
       <find>bsSize</find>
@@ -214,6 +135,9 @@
       <find>currentTestId</find>
       <find>wptRunTestResponse</find>
       <find>valid</find>
+      <find>csv-generate</find>
+      <find>csv&quot;</find>
+      <find>&quot;csv&quot;</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -224,6 +148,7 @@
       <dir>$PROJECT_DIR$/node_modules/webpagetest/lib</dir>
       <dir>$PROJECT_DIR$/node_modules/webpagetest</dir>
       <dir>$PROJECT_DIR$/node_modules/reactstrap</dir>
+      <dir>$PROJECT_DIR$/node_modules</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -445,12 +370,12 @@
       <workItem from="1510298851748" duration="28855000" />
       <workItem from="1510559074416" duration="36220000" />
       <workItem from="1510654445692" duration="4000" />
-      <workItem from="1510654483914" duration="8586000" />
+      <workItem from="1510654483914" duration="10382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128161000" />
+    <option name="totallyTimeSpent" value="129957000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -463,7 +388,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="1920" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28646657" sideWeight="0.46190476" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -472,7 +396,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28646657" sideWeight="0.53809524" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32800853" sideWeight="0.49394417" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -497,42 +421,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/react-select/scss/components.scss" />
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="19" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="828" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-reboot.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-grid.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -732,13 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/webpagetest/lib/webpagetest-web.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="477" column="15" lean-forward="false" selection-start-line="477" selection-start-column="15" selection-end-line="477" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/axios/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
@@ -750,9 +631,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -823,14 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/reducers/web_page_test/cancel/test.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -875,10 +746,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/stream-transform/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21526">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="12884" column="13" lean-forward="false" selection-start-line="12884" selection-start-column="8" selection-end-line="12884" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/webpagetest/lib/webpagetest-web.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7155">
+          <caret line="477" column="15" lean-forward="false" selection-start-line="477" selection-start-column="15" selection-end-line="477" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="285">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/service-worker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
