@@ -1,5 +1,7 @@
 import PropTypes from 'prop-types';
 import React, {Component} from 'react';
+import {FormGroup, Label, Input, Col} from 'reactstrap';
+import Select from 'react-select-plus';
 
 class ConnectivitySelect extends Component {
     static PropTypes = {
@@ -21,22 +23,21 @@ class ConnectivitySelect extends Component {
     };
 
     render() {
-        const {connectivities, currentConnectivity, onChange} = this.props;
+        const {connectivities, currentConnectivity, onChange, size, md, sm, xs} = this.props;
 
-        return <div className="form-group">
-            <label className="col-sm-2 control-label">Connectivity Select</label>
-            <div className="col-sm-10">
-            <select
+        return <Col md={md} sm={sm} xs={xs}>
+            <Label for="testConnectivity" size={size}>Connection type</Label>
+            <Select
                 id="testConnectivity"
-                className="form-control"
-                required={false}
-                defaultValue={currentConnectivity}
+                name="testConnectivity"
+                value={currentConnectivity}
+                options={connectivities.map((connectivity) => ({value: connectivity, label: connectivity}))}
                 onChange={onChange}
-            >
-            <option default disabled>Select Connectivity</option>
-            {connectivities.map((connectivity, key) => <option key={key}
-                                                                          value={connectivity}>{connectivity}</option>)}
-        </select></div></div>;
+                isLoading={connectivities.length === 0}
+                searchable={true}
+                clearable={false}
+            />
+        </Col>;
     }
 }
 

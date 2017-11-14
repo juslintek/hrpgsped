@@ -1,5 +1,7 @@
 import PropTypes from 'prop-types';
 import React, {Component} from 'react';
+import {Label, Input, Col} from 'reactstrap';
+import Select from 'react-select-plus';
 
 class BrowserSelect extends Component {
     static PropTypes = {
@@ -13,23 +15,21 @@ class BrowserSelect extends Component {
     };
 
     render() {
-        const {browsers, onChange} = this.props;
+        const {browsers, currentBrowser, onChange, size, md, sm, xs} = this.props;
 
-        return <div className="form-group">
-            <label className="col-sm-2 control-label">Browser Select</label>
-            <div className="col-sm-10">
-                <select
-                    id="testBrowser"
-                    className="form-control"
-                    required={false}
-                    defaultValue={this.props.currentBrowser}
-                    onChange={onChange}
-                >
-                    <option disabled>Select Browser</option>
-                    {browsers.map((browser, key) => <option key={key} value={browser}>{browser}</option>)}
-                </select>
-            </div>
-        </div>;
+        return <Col md={md} sm={sm} xs={xs}>
+            <Label for="testBrowser" size={size}>Browser</Label>
+            <Select
+                id="testBrowser"
+                name="testBrowser"
+                value={currentBrowser}
+                options={browsers.map((browser) => ({value: browser, label: browser}))}
+                onChange={onChange}
+                isLoading={browsers.length === 0}
+                searchable={true}
+                clearable={false}
+            />
+        </Col>;
     }
 }
 

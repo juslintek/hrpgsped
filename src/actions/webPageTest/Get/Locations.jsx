@@ -1,19 +1,18 @@
-import wpt from '../wptPublic';
+import wpt from '../../../wptPublic';
 
 export const WPT_GET_LOCATIONS = 'WPT_GET_LOCATIONS';
 
 export function wptGetLocations(options) {
     return function (dispatch) {
-        wpt.getLocations({ protocol: 'http' }, function (error, response) {
+        wpt.getLocations({ protocol: 'http' }, function (error, { response }) {
+            const { data/*, statusCode, statusText*/ } = response;
+            const { location } = data;
+
             dispatch({
                 type: WPT_GET_LOCATIONS,
-                payload: response.response.statusCode === 200 ? {
-                    data: response.response.data.location,
-                    error: false
-                } : {
-                    data: [],
-                    errorData: error,
-                    error: true
+                payload: {
+                    data: location,
+                    error: error ? error : false
                 }
             });
         });

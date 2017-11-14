@@ -1,27 +1,74 @@
-@import './App.scss';
+@import "./custom.scss";
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
 
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+$flag-icon-css-path: "../../node_modules/flag-icon-css/flags";
+
+@import "../../node_modules/flag-icon-css/sass/flag-icon.scss";
+
+$select-input-border-radius: 0;
+$select-input-height: 38px;
+@import "../../node_modules/react-select-plus/scss/select.scss";
+@import "../../node_modules/react-select-plus/scss/components.scss";
+
+.shadow-box {
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.5);
+  background-color: #ffffff;
+  padding: 26px 30px;
 }
 
-// .example-enter {
-//   opacity: 0.01;
-// }
+.web-speed-test-wrapper .btn {
+  font-weight: 100;
+  font-family: inherit;
+}
 
-// .example-enter.example-enter-active {
-//   opacity: 1;
-//   transition: opacity 500ms ease-in;
-//   position: absolute;
-// }
+.web-speed-test-wrapper .badge {
+  font-weight: 100;
+  font-size: 13px;
+  width: 37px;
+  height: 37px;
+  line-height: 37px;
+  vertical-align: middle;
+}
 
-// .example-leave {
-//   opacity: 1;
-// }
+.web-speed-test-wrapper .zoom-in:hover {
+  cursor: zoom-in;
+}
 
-// .example-leave.example-leave-active {
-//   opacity: 0.01;
-//   transition: opacity 300ms ease-in;
-//   position: absolute;
-// }
+.web-speed-test-wrapper .zoom-out:hover {
+  cursor: zoom-out;
+}
+
+
+.results-scalar-data p {
+  margin-bottom: 0;
+  line-height: 37px;
+  font-size: 13px;
+}
+
+.speed-grade p span + span {
+  margin-left: 5px;
+}
+
+.Select-menu-outer {
+  min-width: 100%;
+  width: auto;
+}
+
+
+.Select-option {
+  white-space: nowrap;
+}
+
+.Select-option-group-label {
+  box-sizing: border-box;
+  background-color: #fff;
+  color: #666666;
+  font-weight: bold;
+  cursor: default;
+  display: block;
+  padding: 8px 10px;
+}
+.Select-option-group-label ~ .Select-option,
+.Select-option-group-label ~ .Select-option-group {
+  padding-left: 20px;
+}
